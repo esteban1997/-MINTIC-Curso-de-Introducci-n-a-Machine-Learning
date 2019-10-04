@@ -1,2 +1,2 @@
-# tensores-deportistas
-Documento Google Colab donde se utiliza tensorflow y manejo de datos de deportistas
+#  Curso de introduccion a machine learning del MINTIC
+Actividades realizadas en el curso de introduccion a machine learning de platzi y MINTIC
